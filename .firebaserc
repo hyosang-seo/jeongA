@@ -1,7 +1,5 @@
 {
   "projects": {
-    "dev": "autumn-dev"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "gallery-ed37a"
+  }
 }
